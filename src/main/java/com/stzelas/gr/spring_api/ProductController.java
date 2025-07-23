@@ -29,7 +29,7 @@ public class ProductController {
         return productService.getProduct(id);
     }
 
-    @GetMapping("/product/{id}")
+    @PutMapping("/product/{id}")
     @CrossOrigin
     public Product updateProduct(@RequestBody() Product product, @PathVariable("id") Long id) {
         return productService.updateProduct(product);
