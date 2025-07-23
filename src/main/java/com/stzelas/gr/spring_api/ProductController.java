@@ -1,4 +1,4 @@
-package com.sotiris.spring_app.spring_api;
+package com.stzelas.gr.spring_api;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

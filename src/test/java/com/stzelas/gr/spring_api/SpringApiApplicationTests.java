@@ -1,4 +1,4 @@
-package com.sotiris.spring_app.spring_api;
+package com.stzelas.gr.spring_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
