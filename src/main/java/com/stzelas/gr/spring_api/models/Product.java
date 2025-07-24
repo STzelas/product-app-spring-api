@@ -1,4 +1,4 @@
-package com.stzelas.gr.spring_api;
+package com.stzelas.gr.spring_api.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
