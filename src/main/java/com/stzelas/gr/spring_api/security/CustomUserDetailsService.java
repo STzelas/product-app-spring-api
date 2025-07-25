@@ -1,6 +1,6 @@
 package com.stzelas.gr.spring_api.security;
 
-import com.stzelas.gr.spring_api.models.User;
+import com.stzelas.gr.spring_api.model.User;
 import com.stzelas.gr.spring_api.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

@@ -1,13 +1,12 @@
 package com.stzelas.gr.spring_api.security;
 
-import com.stzelas.gr.spring_api.models.User;
+import com.stzelas.gr.spring_api.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
 import java.util.Collections;
-import java.util.List;
 
 public class UserPrincipal implements UserDetails {
 

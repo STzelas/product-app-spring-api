@@ -1,6 +1,6 @@
 package com.stzelas.gr.spring_api.services;
 
-import com.stzelas.gr.spring_api.models.User;
+import com.stzelas.gr.spring_api.model.User;
 import com.stzelas.gr.spring_api.repositories.UserRepository;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

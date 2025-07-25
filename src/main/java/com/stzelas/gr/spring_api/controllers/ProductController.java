@@ -1,6 +1,6 @@
 package com.stzelas.gr.spring_api.controllers;
 
-import com.stzelas.gr.spring_api.models.Product;
+import com.stzelas.gr.spring_api.model.Product;
 import com.stzelas.gr.spring_api.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

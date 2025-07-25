@@ -1,6 +1,6 @@
 package com.stzelas.gr.spring_api.services;
 
-import com.stzelas.gr.spring_api.models.Product;
+import com.stzelas.gr.spring_api.model.Product;
 import com.stzelas.gr.spring_api.repositories.ProductRepository;
 import org.springframework.stereotype.Service;
 

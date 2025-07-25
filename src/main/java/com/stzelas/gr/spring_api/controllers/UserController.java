@@ -1,7 +1,8 @@
 package com.stzelas.gr.spring_api.controllers;
 
-import com.stzelas.gr.spring_api.models.User;
+import com.stzelas.gr.spring_api.model.User;
 import com.stzelas.gr.spring_api.services.UserService;
+import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
