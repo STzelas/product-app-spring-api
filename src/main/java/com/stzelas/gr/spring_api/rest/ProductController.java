@@ -1,4 +1,4 @@
-package com.stzelas.gr.spring_api.controllers;
+package com.stzelas.gr.spring_api.rest;
 
 import com.stzelas.gr.spring_api.model.Product;
 import com.stzelas.gr.spring_api.services.ProductService;
